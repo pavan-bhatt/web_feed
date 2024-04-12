@@ -1,5 +1,20 @@
-{
-  "uk": "Hey this is text which will display in English",
-  "de": "Hey, das ist Text, der auf Englisch angezeigt wird",
-  "fr": "Hé, c'est un texte qui s'affichera en anglais"
-}
+[
+  {
+    "id": 14271254,
+    "title": "LEGO DISNEY SET- AUTO WIN",
+    "link": "https://www.competitionfox.com/competition/lego-disney-set-auto-win/",
+    "description": "",
+    "price": "2.00",
+    "image_link": "https://www.competitionfox.com/wp-content/uploads/2024/04/111503609.webp",
+    "categories": [
+      "Uncategorized"
+    ],
+    "status": "live",
+    "start_date": "2024-04-10 03:00",
+    "end_date": "2024-04-13 18:00",
+    "maximum_tickets": "90",
+    "maximum_tickets_per_user": "5",
+    "winner_count": "1",
+    "winner_selection": "Automatic"
+  }
+]
