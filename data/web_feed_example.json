@@ -1,20 +1,40 @@
 [
   {
-    "id": 14271254,
-    "title": "LEGO DISNEY SET- AUTO WIN",
-    "link": "https://www.competitionfox.com/competition/lego-disney-set-auto-win/",
-    "description": "something here",
-    "price": "2.00",
-    "image_link": "https://www.competitionfox.com/wp-content/uploads/2024/04/111503609.webp",
-    "categories": [
-      "Uncategorized"
-    ],
-    "status": "live",
-    "start_date": "2024-04-10 03:00",
-    "end_date": "2024-04-13 18:00",
-    "maximum_tickets": "90",
-    "maximum_tickets_per_user": "5",
-    "winner_count": "1",
-    "winner_selection": "Automatic"
+    "id": 1,
+    "language": {
+      "en": {
+        "title": "Deal Card 1",
+        "link": "www.mydealcard1.com",
+        "description": "Deal card 1 desc",
+        "price": "2.00",
+        "image_link": "https://png.pngtree.com/png-vector/20200225/ourmid/pngtree-loyalty-program-isometric-discount-card-icons-png-image_2153697.jpg"
+      },
+      "de": {
+        "title": "Angebotskarte 1",
+        "link": "www.meineangebotskarte1.com",
+        "description": "Beschreibung der Angebotskarte 1",
+        "price": "2,00",
+        "image_link": "https://png.pngtree.com/png-vector/20200225/ourmid/pngtree-loyalty-program-isometric-discount-card-icons-png-image_2153697.jpg"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "language": {
+      "en": {
+        "title": "Deal Card 2",
+        "link": "www.mydealcard2.com",
+        "description": "Deal card 2 desc",
+        "price": "4.00",
+        "image_link": "https://png.pngtree.com/png-vector/20200225/ourmid/pngtree-loyalty-program-isometric-discount-card-icons-png-image_2153697.jpg"
+      },
+      "de": {
+        "title": "Angebotskarte 2",
+        "link": "www.meineangebotskarte2.com",
+        "description": "Beschreibung der Angebotskarte 2",
+        "price": "4,00",
+        "image_link": "https://img.freepik.com/free-vector/ace-diamonds-playing-card-isolated_1308-88776.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722211200&semt=ais_user"
+      }
+    }
   }
 ]
