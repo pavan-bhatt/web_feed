@@ -1,40 +1,64 @@
 [
-  {
-    "id": 1,
-    "language": {
-      "en": {
-        "title": "Deal Card 1",
-        "link": "www.mydealcard1.com",
-        "description": "Deal card 1 desc",
-        "price": "2.00",
-        "image_link": "https://png.pngtree.com/png-vector/20200225/ourmid/pngtree-loyalty-program-isometric-discount-card-icons-png-image_2153697.jpg"
-      },
-      "de": {
-        "title": "Angebotskarte 1",
-        "link": "www.meineangebotskarte1.com",
-        "description": "Beschreibung der Angebotskarte 1",
-        "price": "2,00",
-        "image_link": "https://png.pngtree.com/png-vector/20200225/ourmid/pngtree-loyalty-program-isometric-discount-card-icons-png-image_2153697.jpg"
-      }
+    {
+        "id": "1055",
+        "title": "Wella Koleston Pure Naturals Blondes 7/03 mittelblond natur-gold 60 ml",
+        "link_de": "https://mcstaging2.hagel-shop.de/catalog/product/view/id/1055",
+        "link_at": "https://mcstaging2.hagel-shop.at/catalog/product/view/id/1055",
+        "description": "Wella Koleston Perfect</strong> sorgt f&uuml;r wahrhaft perfekte, intensive und strahlende Farbergebnisse dank wertvoller Inhaltsstoffe. Entdecken Sie eine einzigartige Palette an kr&auml;ftigen Blond,- Natur-, Braun-, Rot- und Special Mix-T&ouml;nen und kreieren Sie Ihren Style immer wieder neu. Wella Koleston Perfect mit Triluxiv Technologie verspricht bis zu 100% Grauhaarabdeckung und l&auml;sst sich gleichm&auml;&szlig;ig vom Ansatz bis zu den Spitzen verteilen.</p> <p>Dank 25% aufbauender Wirkstoffe und Lipiden pflegt die Farbe Ihre Haare w&auml;hrend der Behandlung und verhilft zu schonenden Ergebnissen. Im Vergleich zu unbehandeltem Haar verspricht Wella Koleston Perfect bis zu 66% mehr Glanz",
+        "price": 9.79,
+        "image_link": "https://www.hagel-shop.de/media/catalog/product/p/u/pure_naturals_ean_8005610627885_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+        "categories": [
+            "Coloration",
+            "Farbe",
+            "Färben",
+            "Haarpflege",
+            "Koleston",
+            "Wella",
+            "bundle",
+            "etc.."
+        ],
+        "inventory_quantity": 25,
+        "inventory_policy": 1
+    },
+    {
+        "id": "1056",
+        "title": "Alcina Magical Transformation CC Cream 50 ml",
+        "link_de": "https://www.hagel-shop.de/alcina-magical-transformation-cc-cream-50-ml.html",
+        "link_at": "https://www.hagel-shop.at/alcina-magical-transformation-cc-cream-50-ml.html",
+        "description": "Mikro-verkapselte Farbpigmente sorgen in der Alcina Magical Transformation CC Cream für einen Sofort-Effekt: fast magisch verwandelt sich die feuchtigkeitsspendende Textur mit Hyaluron auf der Haut. Sekundenschnell sorgt die zarte Tönung für einen natürlicheren und ausgeglicheneren Teint. Das Ergebnis: natürliches Finish, optisch geglättete Hautstruktur und ein gleichmäßigeres Hautbild – und das über Stunden! Für alle Hauttypen geeignet.",
+        "price": 16.16,
+        "image_link": "https://www.hagel-shop.de/media/catalog/product/1/2/12079831.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+        "categories": [
+            "Coloration",
+            "Farbe",
+            "Färben",
+            "Haarpflege",
+            "Koleston",
+            "Wella",
+            "bundle",
+            "hair"
+        ],
+        "inventory_quantity": 25,
+        "inventory_policy": 1
+    },
+    {
+        "id": "1057",
+        "title": "Hydracolor Kids Erdbeere",
+        "link_de": "https://www.hagel-shop.de/hydracolor-kids-erdbeere.html",
+        "link_at": "https://www.hagel-shop.at/hydracolor-kids-erdbeere.html",
+        "description": "Das Hydracolor Kids Erdbeere ist perfekter Schutz (SPF 25) & Pflege für jede Jahreszeit. Mit Erdbeer-Aroma.",
+        "price": 4.96,
+        "image_link": "https://www.hagel-shop.de/media/catalog/product/1/2/12061729_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+        "categories": [
+            "Coloration",
+            "Farbe",
+            "Färben",
+            "Haarpflege",
+            "Koleston",
+            "Wella",
+            "kids"
+        ],
+        "inventory_quantity": 25,
+        "inventory_policy": 1
     }
-  },
-  {
-    "id": 2,
-    "language": {
-      "en": {
-        "title": "Deal Card 2",
-        "link": "www.mydealcard2.com",
-        "description": "Deal card 2 desc",
-        "price": "4.00",
-        "image_link": "https://png.pngtree.com/png-vector/20200225/ourmid/pngtree-loyalty-program-isometric-discount-card-icons-png-image_2153697.jpg"
-      },
-      "de": {
-        "title": "Angebotskarte 2",
-        "link": "www.meineangebotskarte2.com",
-        "description": "Beschreibung der Angebotskarte 2",
-        "price": "4,00",
-        "image_link": "https://img.freepik.com/free-vector/ace-diamonds-playing-card-isolated_1308-88776.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722211200&semt=ais_user"
-      }
-    }
-  }
 ]
