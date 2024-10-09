@@ -8,15 +8,11 @@
         "price": 9.79,
         "image_link": "https://www.hagel-shop.de/media/catalog/product/p/u/pure_naturals_ean_8005610627885_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
         "categories": [
-            "Coloration",
-            "Farbe",
-            "Färben",
-            "Haarpflege",
-            "Koleston",
-            "Wella",
-            "bundle",
-            "etc.."
-        ],
+    "iPhone > Generella tillbehör > Barntillbehör > Barnhörlurar",
+    "iPhone > Generella tillbehör > Hörlurar & headset > Hörlurar 3,5 mm",
+    "Mac > Generella Mac-tillbehör > Hörlurar & headset > Hörlurar (3,5mm utan mikrofon)",
+    "iPad > Generella iPad-tillbehör > Hörlurar & headset > Hörlurar"
+  ],
         "inventory_quantity": 25,
         "inventory_policy": 1
     },
@@ -28,16 +24,12 @@
         "description": "Mikro-verkapselte Farbpigmente sorgen in der Alcina Magical Transformation CC Cream für einen Sofort-Effekt: fast magisch verwandelt sich die feuchtigkeitsspendende Textur mit Hyaluron auf der Haut. Sekundenschnell sorgt die zarte Tönung für einen natürlicheren und ausgeglicheneren Teint. Das Ergebnis: natürliches Finish, optisch geglättete Hautstruktur und ein gleichmäßigeres Hautbild – und das über Stunden! Für alle Hauttypen geeignet.",
         "price": 16.16,
         "image_link": "https://www.hagel-shop.de/media/catalog/product/1/2/12079831.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
-        "categories": [
-            "Coloration",
-            "Farbe",
-            "Färben",
-            "Haarpflege",
-            "Koleston",
-            "Wella",
-            "bundle",
-            "hair"
-        ],
+       "categories": [
+    "iPhone > Generella tillbehör > Barntillbehör > Barnhörlurar",
+    "iPhone > Generella tillbehör > Hörlurar & headset > Hörlurar 3,5 mm",
+    "Mac > Generella Mac-tillbehör > Hörlurar & headset > Hörlurar (3,5mm utan mikrofon)",
+    "iPad > Generella iPad-tillbehör > Hörlurar & headset > Hörlurar"
+  ],
         "inventory_quantity": 25,
         "inventory_policy": 1
     },
@@ -49,15 +41,12 @@
         "description": "Das Hydracolor Kids Erdbeere ist perfekter Schutz (SPF 25) & Pflege für jede Jahreszeit. Mit Erdbeer-Aroma.",
         "price": 4.96,
         "image_link": "https://www.hagel-shop.de/media/catalog/product/1/2/12061729_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
-        "categories": [
-            "Coloration",
-            "Farbe",
-            "Färben",
-            "Haarpflege",
-            "Koleston",
-            "Wella",
-            "kids"
-        ],
+       "categories": [
+    "iPhone > Generella tillbehör > Barntillbehör > Barnhörlurar",
+    "iPhone > Generella tillbehör > Hörlurar & headset > Hörlurar 3,5 mm",
+    "Mac > Generella Mac-tillbehör > Hörlurar & headset > Hörlurar (3,5mm utan mikrofon)",
+    "iPad > Generella iPad-tillbehör > Hörlurar & headset > Hörlurar"
+  ],
         "inventory_quantity": 25,
         "inventory_policy": 1
     }
