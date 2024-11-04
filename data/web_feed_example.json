@@ -4,31 +4,32 @@
         "title": "Chocolate calcium syrup for children",
         "title_cz": "Čoko vápníkový sirup pro děti",
         "link": "https://jimezdrave.cz/shop/doplnky-stravy/vapnikovy-sirup-pro-deti-3452/",
-        "link_cz":"https://jimezdrave.cz/shop/doplnky-stravy/vapnikovy-sirup-pro-deti-3452/"
+        "link_cz": "https://jimezdrave.cz/shop/doplnky-stravy/vapnikovy-sirup-pro-deti-3452/",
         "description": "The most delicious calcium for kids on the market?",
-        "description_cz":"Nejlahodnější vápník pro děti na trhu?",
+        "description_cz": "Nejlahodnější vápník pro děti na trhu?",
         "price": 222,
         "currency_code": "CZK",
         "image_link": "https://jz.img0.cz/media/product_p/img/ea052fb8-df70-4e30-90a5-6c3c5bc79103.jpg.1000x750_q85.jpg",
         "categories": [
             "Doplňky stravy"
-  ],
+        ],
         "inventory_quantity": 25,
         "inventory_policy": 1
     },
     {
         "id": "743",
         "title": "Hydrolyzed fish collagen with hyaluronic acid and vitamins C and E",
-        "title_cz":"Hydrolyzovaný rybí kolagen s kyselinou hyaluronovou a vitamíny C a E ",
+        "title_cz": "Hydrolyzovaný rybí kolagen s kyselinou hyaluronovou a vitamíny C a E",
         "link_de": "https://jimezdrave.cz/shop/doplnky-stravy/kolagen-s-kyselinou-hyaluronovou-743/",
         "link_at": "https://jimezdrave.cz/shop/doplnky-stravy/kolagen-s-kyselinou-hyaluronovou-743/",
-        "description": "It pampers your appearance, hydrates your skin and tastes like mango. what is it? Our brand new Collagen Naticol® with hyaluronic acid. Beauty has never tasted better!"
+        "description": "It pampers your appearance, hydrates your skin and tastes like mango. what is it? Our brand new Collagen Naticol® with hyaluronic acid. Beauty has never tasted better!",
         "description_cz": "Hýčká Váš vzhled, hydratuje kůži a chutná jako mango. Co je to? Náš zbrusu nový Kolagen Naticol® s kyselinou hyaluronovou. Krása nikdy nechutnala lépe!",
         "price": 678,
+        "currency_code": "CZK",
         "image_link": "https://jz.img0.cz/media/product_p/img/5518164b-6e07-4da1-a310-01303ca0226e.jpg.1000x750_q85.jpg",
-       "categories": [
+        "categories": [
             "Doplňky stravy"
-  ],
+        ],
         "inventory_quantity": 25,
         "inventory_policy": 1
     }
