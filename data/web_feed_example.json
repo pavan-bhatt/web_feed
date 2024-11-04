@@ -1,53 +1,35 @@
 [
     {
-        "id": "10551",
-        "title": "Wella Koleston Pure Naturals Blondes 7/03 mittelblond natur-gold 60 ml",
-        "link_de": "https://mcstaging2.hagel-shop.de/catalog/product/view/id/1055",
-        "link_at": "https://mcstaging2.hagel-shop.at/catalog/product/view/id/1055",
-        "description": "Wella Koleston Perfect</strong> sorgt f&uuml;r wahrhaft perfekte, intensive und strahlende Farbergebnisse dank wertvoller Inhaltsstoffe. Entdecken Sie eine einzigartige Palette an kr&auml;ftigen Blond,- Natur-, Braun-, Rot- und Special Mix-T&ouml;nen und kreieren Sie Ihren Style immer wieder neu. Wella Koleston Perfect mit Triluxiv Technologie verspricht bis zu 100% Grauhaarabdeckung und l&auml;sst sich gleichm&auml;&szlig;ig vom Ansatz bis zu den Spitzen verteilen.</p> <p>Dank 25% aufbauender Wirkstoffe und Lipiden pflegt die Farbe Ihre Haare w&auml;hrend der Behandlung und verhilft zu schonenden Ergebnissen. Im Vergleich zu unbehandeltem Haar verspricht Wella Koleston Perfect bis zu 66% mehr Glanz",
-        "price": 9.79,
-        "image_link": "https://www.hagel-shop.de/media/catalog/product/p/u/pure_naturals_ean_8005610627885_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+        "id": "3452",
+        "title": "Chocolate calcium syrup for children",
+        "title_cz": "Čoko vápníkový sirup pro děti",
+        "link": "https://jimezdrave.cz/shop/doplnky-stravy/vapnikovy-sirup-pro-deti-3452/",
+        "link_cz":"https://jimezdrave.cz/shop/doplnky-stravy/vapnikovy-sirup-pro-deti-3452/"
+        "description": "The most delicious calcium for kids on the market?",
+        "description_cz":"Nejlahodnější vápník pro děti na trhu?",
+        "price": 222,
+        "currency_code": "CZK",
+        "image_link": "https://jz.img0.cz/media/product_p/img/ea052fb8-df70-4e30-90a5-6c3c5bc79103.jpg.1000x750_q85.jpg",
         "categories": [
-    "iPhone > Generella tillbehör > Barntillbehör > Barnhörlurar",
-    "iPhone > Generella tillbehör > Hörlurar & headset > Hörlurar 3,5 mm",
-    "Mac > Generella Mac-tillbehör > Hörlurar & headset > Hörlurar (3,5mm utan mikrofon)",
-    "iPad > Generella iPad-tillbehör > Hörlurar & headset > Hörlurar"
+            "Doplňky stravy"
   ],
         "inventory_quantity": 25,
         "inventory_policy": 1
     },
     {
-        "id": "10561",
-        "title": "Alcina Magical Transformation CC Cream 50 ml",
-        "link_de": "https://www.hagel-shop.de/alcina-magical-transformation-cc-cream-50-ml.html",
-        "link_at": "https://www.hagel-shop.at/alcina-magical-transformation-cc-cream-50-ml.html",
-        "description": "Mikro-verkapselte Farbpigmente sorgen in der Alcina Magical Transformation CC Cream für einen Sofort-Effekt: fast magisch verwandelt sich die feuchtigkeitsspendende Textur mit Hyaluron auf der Haut. Sekundenschnell sorgt die zarte Tönung für einen natürlicheren und ausgeglicheneren Teint. Das Ergebnis: natürliches Finish, optisch geglättete Hautstruktur und ein gleichmäßigeres Hautbild – und das über Stunden! Für alle Hauttypen geeignet.",
-        "price": 16.16,
-        "image_link": "https://www.hagel-shop.de/media/catalog/product/1/2/12079831.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+        "id": "743",
+        "title": "Hydrolyzed fish collagen with hyaluronic acid and vitamins C and E",
+        "title_cz":"Hydrolyzovaný rybí kolagen s kyselinou hyaluronovou a vitamíny C a E ",
+        "link_de": "https://jimezdrave.cz/shop/doplnky-stravy/kolagen-s-kyselinou-hyaluronovou-743/",
+        "link_at": "https://jimezdrave.cz/shop/doplnky-stravy/kolagen-s-kyselinou-hyaluronovou-743/",
+        "description": "It pampers your appearance, hydrates your skin and tastes like mango. what is it? Our brand new Collagen Naticol® with hyaluronic acid. Beauty has never tasted better!"
+        "description_cz": "Hýčká Váš vzhled, hydratuje kůži a chutná jako mango. Co je to? Náš zbrusu nový Kolagen Naticol® s kyselinou hyaluronovou. Krása nikdy nechutnala lépe!",
+        "price": 678,
+        "image_link": "https://jz.img0.cz/media/product_p/img/5518164b-6e07-4da1-a310-01303ca0226e.jpg.1000x750_q85.jpg",
        "categories": [
-    "iPhone > Generella tillbehör > Barntillbehör > Barnhörlurar",
-    "iPhone > Generella tillbehör > Hörlurar & headset > Hörlurar 3,5 mm",
-    "Mac > Generella Mac-tillbehör > Hörlurar & headset > Hörlurar (3,5mm utan mikrofon)",
-    "iPad > Generella iPad-tillbehör > Hörlurar & headset > Hörlurar"
+            "Doplňky stravy"
   ],
         "inventory_quantity": 25,
         "inventory_policy": 1
     },
-    {
-        "id": "10571",
-        "title": "Hydracolor Kids Erdbeere",
-        "link_de": "https://www.hagel-shop.de/hydracolor-kids-erdbeere.html",
-        "link_at": "https://www.hagel-shop.at/hydracolor-kids-erdbeere.html",
-        "description": "Das Hydracolor Kids Erdbeere ist perfekter Schutz (SPF 25) & Pflege für jede Jahreszeit. Mit Erdbeer-Aroma.",
-        "price": 4.96,
-        "image_link": "https://www.hagel-shop.de/media/catalog/product/1/2/12061729_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
-       "categories": [
-    "iPhone > Generella tillbehör > Barntillbehör > Barnhörlurar",
-    "iPhone > Generella tillbehör > Hörlurar & headset > Hörlurar 3,5 mm",
-    "Mac > Generella Mac-tillbehör > Hörlurar & headset > Hörlurar (3,5mm utan mikrofon)",
-    "iPad > Generella iPad-tillbehör > Hörlurar & headset > Hörlurar"
-  ],
-        "inventory_quantity": 25,
-        "inventory_policy": 1
-    }
 ]
