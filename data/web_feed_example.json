@@ -1,36 +1,11 @@
-[
-    {
-        "id": "3452",
-        "title": "Chocolate calcium syrup for children",
-        "title_cz": "Čoko vápníkový sirup pro děti",
-        "link": "https://jimezdrave.cz/shop/doplnky-stravy/vapnikovy-sirup-pro-deti-3452/",
-        "link_cz": "https://jimezdrave.cz/shop/doplnky-stravy/vapnikovy-sirup-pro-deti-3452/",
-        "description": "The most delicious calcium for kids on the market?",
-        "description_cz": "Nejlahodnější vápník pro děti na trhu?",
-        "price": 222,
-        "currency_code": "CZK",
-        "image_link": "https://jz.img0.cz/media/product_p/img/ea052fb8-df70-4e30-90a5-6c3c5bc79103.jpg.1000x750_q85.jpg",
-        "categories": [
-            "Doplňky stravy"
-        ],
-        "inventory_quantity": 25,
-        "inventory_policy": 1
-    },
-    {
-        "id": "743",
-        "title": "Hydrolyzed fish collagen with hyaluronic acid and vitamins C and E",
-        "title_cz": "Hydrolyzovaný rybí kolagen s kyselinou hyaluronovou a vitamíny C a E",
-        "link_de": "https://jimezdrave.cz/shop/doplnky-stravy/kolagen-s-kyselinou-hyaluronovou-743/",
-        "link_at": "https://jimezdrave.cz/shop/doplnky-stravy/kolagen-s-kyselinou-hyaluronovou-743/",
-        "description": "It pampers your appearance, hydrates your skin and tastes like mango. what is it? Our brand new Collagen Naticol® with hyaluronic acid. Beauty has never tasted better!",
-        "description_cz": "Hýčká Váš vzhled, hydratuje kůži a chutná jako mango. Co je to? Náš zbrusu nový Kolagen Naticol® s kyselinou hyaluronovou. Krása nikdy nechutnala lépe!",
-        "price": 678,
-        "currency_code": "CZK",
-        "image_link": "https://jz.img0.cz/media/product_p/img/5518164b-6e07-4da1-a310-01303ca0226e.jpg.1000x750_q85.jpg",
-        "categories": [
-            "Doplňky stravy"
-        ],
-        "inventory_quantity": 25,
-        "inventory_policy": 1
-    }
-]
+{
+  "en": {
+    "content": "FABRIC OF A CHAMPION\n\nThe 'Fabric of a Champion' campaign moves forward this season with the latest chapter of Reverse Weave. Our main character for SS25 is Pablo Attal (@pablotshirtfactory), a creative community entrepreneur who is the ‘Fabric of Paris’.\n\nFirst revolutionizing sportswear in the 1930s with a unique cross-grain cut, the game-changing Reverse Weave technology was patented in 1952, securing its place in athletics, pop culture, and street style."
+  },
+  "de": {
+    "content": "Stoff eines Champions\n\nDie Kampagne „Stoff eines Champions“ geht diese Saison mit dem neuesten Kapitel von Reverse Weave weiter. Unsere Hauptfigur für SS25 ist Pablo Attal (@pablotshirtfactory), ein kreativer Community-Unternehmer, der der „Stoff von Paris“ ist.\n\nDie bahnbrechende Reverse Weave-Technologie revolutionierte erstmals in den 1930er Jahren die Sportbekleidung mit einem einzigartigen Quermaserungsschnitt und wurde 1952 patentiert, wodurch sie ihren Platz in der Leichtathletik, der Popkultur und im Streetstyle sicherte."
+  },
+  "fr": {
+    "content": "Tissu d'un champion\n\nLa campagne « Tissu d'un champion » avance cette saison avec le dernier chapitre de Reverse Weave. Notre personnage principal pour le SS25 est Pablo Attal (@pablotshirtfactory), un entrepreneur communautaire créatif qui est le « Tissu de Paris ».\n\nRévolutionnant pour la première fois les vêtements de sport dans les années 1930 avec une coupe croisée unique, la technologie révolutionnaire Reverse Weave a été brevetée en 1952, assurant sa place dans l'athlétisme, la culture pop et le street style."
+  }
+}
