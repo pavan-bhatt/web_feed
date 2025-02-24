@@ -1,14 +1,36 @@
-{
-  "en": {
-    "title" : "FABRIC OF A CHAMPION",
-    "content": "The 'Fabric of a Champion' campaign moves forward this season with the latest chapter of Reverse Weave. Our main character for SS25 is Pablo Attal (@pablotshirtfactory), a creative community entrepreneur who is the ‘Fabric of Paris’.\n\nFirst revolutionizing sportswear in the 1930s with a unique cross-grain cut, the game-changing Reverse Weave technology was patented in 1952, securing its place in athletics, pop culture, and street style."
+[
+  {
+    "id":"001-Shorts",
+    "title":"The Bay Shorts",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Free your knees in this summers heatwave",
+    "price":149.99,
+    "image_link":"https://media.istockphoto.com/id/1310810791/photo/blue-short-pants-with-clipping-path.jpg?s=612x612&w=0&k=20&c=0QRny4tnOraxzv-JPsz4prWIGbYWo91TF3NkUi_Tte4=",
+    "categories":["apparel","shorts","new-arrival","summer", "hot"],
+    "inventory_quantity":25,
+    "inventory_policy":1
   },
-  "de": {
-    "title" : "Stoff eines Champions",
-    "content": "Die Kampagne „Stoff eines Champions“ geht diese Saison mit dem neuesten Kapitel von Reverse Weave weiter. Unsere Hauptfigur für SS25 ist Pablo Attal (@pablotshirtfactory), ein kreativer Community-Unternehmer, der der „Stoff von Paris“ ist.\n\nDie bahnbrechende Reverse Weave-Technologie revolutionierte erstmals in den 1930er Jahren die Sportbekleidung mit einem einzigartigen Quermaserungsschnitt und wurde 1952 patentiert, wodurch sie ihren Platz in der Leichtathletik, der Popkultur und im Streetstyle sicherte."
+  {
+    "id":"002-linen-shirt",
+    "title":"Luxury Linen",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Creases don't matter on a beach",
+    "price":129.99,
+    "image_link":"https://images.squarespace-cdn.com/content/v1/57baef93cd0f68daca6084ae/facc3240-5ebf-41cc-9421-87eaf1221a76/unnamed+%283%29.png",
+    "categories":["apparel","shirt","new-arrival","summer", "hot"],
+    "inventory_quantity":25,
+    "inventory_policy":1
   },
-  "fr": {
-    "title" : "Tissu d'un champion",
-    "content": "La campagne « Tissu d'un champion » avance cette saison avec le dernier chapitre de Reverse Weave. Notre personnage principal pour le SS25 est Pablo Attal (@pablotshirtfactory), un entrepreneur communautaire créatif qui est le « Tissu de Paris ».\n\nRévolutionnant pour la première fois les vêtements de sport dans les années 1930 avec une coupe croisée unique, la technologie révolutionnaire Reverse Weave a été brevetée en 1952, assurant sa place dans l'athlétisme, la culture pop et le street style."
+  {
+    "id":"003-BAY-RAN",
+    "title":"BAY-RAN",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"BAY-RAN the non copyright sunnies",
+    "price":131.20,
+    "image_link":"https://assets2.sunglasshut.com/cdn-record-files-pi/f0b8efbb-d4b5-4f0d-94d3-a3dc00d58558/75b0e908-cfcc-40ca-b376-ad570146a652/0RB2447__1160__STD__shad__qt.png?impolicy=SGH_bgtransparent&width=2048",
+    "categories":["apparel","sunglasses","new-arrival","summer", "hot"],
+    "inventory_quantity":25,
+    "inventory_policy":1
   }
-}
+  
+]
