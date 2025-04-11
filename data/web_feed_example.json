@@ -1,36 +1,16 @@
 [
   {
-    "id":"001-Shorts",
-    "title":"The Bay Shorts",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Free your knees in this summers heatwave",
-    "price":149.99,
-    "image_link":"https://media.istockphoto.com/id/1310810791/photo/blue-short-pants-with-clipping-path.jpg?s=612x612&w=0&k=20&c=0QRny4tnOraxzv-JPsz4prWIGbYWo91TF3NkUi_Tte4=",
-    "categories":["apparel","shorts","new-arrival","summer", "hot"],
-    "inventory_quantity":25,
-    "inventory_policy":1
-  },
-  {
-    "id":"002-linen-shirt",
-    "title":"Luxury Linen",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Creases don't matter on a beach",
-    "price":129.99,
-    "image_link":"https://images.squarespace-cdn.com/content/v1/57baef93cd0f68daca6084ae/facc3240-5ebf-41cc-9421-87eaf1221a76/unnamed+%283%29.png",
-    "categories":["apparel","shirt","new-arrival","summer", "hot"],
-    "inventory_quantity":25,
-    "inventory_policy":1
-  },
-  {
-    "id":"003-BAY-RAN",
-    "title":"BAY-RAN",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"BAY-RAN the non copyright sunnies",
-    "price":131.20,
-    "image_link":"https://assets2.sunglasshut.com/cdn-record-files-pi/f0b8efbb-d4b5-4f0d-94d3-a3dc00d58558/75b0e908-cfcc-40ca-b376-ad570146a652/0RB2447__1160__STD__shad__qt.png?impolicy=SGH_bgtransparent&width=2048",
-    "categories":["apparel","sunglasses","new-arrival","summer", "hot"],
-    "inventory_quantity":25,
-    "inventory_policy":1
+    "en": {
+      "heading": "Welcome to Our Website",
+      "para": "We're glad you're here. Explore our latest updates and offers."
+    },
+    "se": {
+      "heading": "Välkommen till vår webbplats",
+      "para": "Vi är glada att du är här. Utforska våra senaste uppdateringar och erbjudanden."
+    },
+    "dk": {
+      "heading": "Velkommen til vores hjemmeside",
+      "para": "Vi er glade for, at du er her. Udforsk vores seneste opdateringer og tilbud."
+    }
   }
-  
 ]
