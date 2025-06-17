@@ -1,110 +1,182 @@
 [
-  {
-    "id": "BSTN-SANDL",
-    "title": "Boston Suede Leather",
-    "link": "https://www.birkenstock.com/gb/boston-suede-leather/boston-summer-suedeleather-0-eva-u_1702.html",
-    "description": "The BIRKENSTOCK Boston is a veritable classic that can easily be worn all year round.",
-    "price": 140,
-    "currency": "GBP",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
-    "categories": ["parent"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
-  {
-    "id": "BSTN-SANDL_FR",
-    "title": "Boston Cuir Velours",
-    "link": "https://www.birkenstock.com/gb/boston-suede-leather/boston-summer-suedeleather-0-eva-u_1702.html",
-    "description": "La BIRKENSTOCK Boston est un grand classique qui peut être porté toute l'année.",
-    "price": 165,
-    "currency": "EUR",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
-    "categories": ["sandales", "homme", "été"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
-  {
-    "id": "BSTN-SANDL_DE",
-    "title": "Boston Veloursleder",
-    "link": "https://www.birkenstock.com/gb/boston-suede-leather/boston-summer-suedeleather-0-eva-u_1702.html",
-    "description": "Der BIRKENSTOCK Boston ist ein echter Klassiker, der das ganze Jahr über getragen werden kann.",
-    "price": 165,
-    "currency": "EUR",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
-    "categories": ["sandals", "mens", "summer"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
-  {
-    "id": "MILNO-SNDL",
-    "title": "Milano Oiled Leather",
-    "link": "https://www.birkenstock.com/gb/milano-natural-leather-oiled/milano-core-oiledleather-0-eva-u_5326.html",
-    "description": "The BIRKENSTOCK Milano now comes in an elegant leather version.",
-    "price": 115,
-    "currency": "GBP",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
-    "categories": ["parent"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
-  {
-    "id": "MILNO-SNDL_FR",
-    "title": "Milano Cuir Huilé",
-    "link": "https://www.birkenstock.com/gb/milano-natural-leather-oiled/milano-core-oiledleather-0-eva-u_5326.html",
-    "description": "La BIRKENSTOCK Milano est maintenant disponible dans une version élégante en cuir.",
-    "price": 136,
-    "currency": "EUR",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
-    "categories": ["sandales", "homme", "été"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
-  {
-    "id": "MILNO-SNDL_DE",
-    "title": "Milano Leder geölt",
-    "link": "https://www.birkenstock.com/gb/milano-natural-leather-oiled/milano-core-oiledleather-0-eva-u_5326.html",
-    "description": "Der BIRKENSTOCK Milano ist jetzt auch in einer eleganten Lederversion erhältlich.",
-    "price": 136,
-    "currency": "EUR",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
-    "categories": ["sandals", "mens", "summer"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
     {
-    "id": "3STP-FUTCARE",
-    "title": "3-Step Foot Care Kit",
-    "link": "https://www.birkenstock.com/gb/3-step-foot-care-kit-/3stepfoot-careessentials-footcarekit-0-0-u.html?dwvar_3stepfoot-careessentials-footcarekit-0-0-u_color=11838",
-    "description": "The complete care essentials routine for your feet.",
-    "price": 28,
-    "currency": "GBP",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
-    "categories": ["parent"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
-  {
-    "id": "3STP-FUTCARE_FR",
-    "title": "Kit de Soin des Pieds 3 Étapes",
-    "link": "https://www.birkenstock.com/gb/3-step-foot-care-kit-/3stepfoot-careessentials-footcarekit-0-0-u.html?dwvar_3stepfoot-careessentials-footcarekit-0-0-u_color=11838",
-    "description": "La routine complète de soins essentiels pour vos pieds.",
-    "price": 33,
-    "currency": "EUR",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
-    "categories": ["unisex", "soin des pieds", "beauté"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  },
-  {
-    "id": "3STP-FUTCARE_DE",
-    "title": "3-Schritte-Fußpflege-Set",
-    "link": "https://www.birkenstock.com/gb/3-step-foot-care-kit-/3stepfoot-careessentials-footcarekit-0-0-u.html?dwvar_3stepfoot-careessentials-footcarekit-0-0-u_color=11838",
-    "description": "Die komplette Pflegeroutine für deine Füße.",
-    "price": 33,
-    "currency": "EUR",
-    "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
-    "categories": ["unisex", "footcare", "beauty"],
-    "inventory_quantity": 40,
-    "inventory_policy": 1
-  }
+        "id": "BSTN-SANDL",
+        "title": "Boston Suede Leather",
+        "link": "https://www.birkenstock.com/gb/boston-suede-leather/boston-summer-suedeleather-0-eva-u_1702.html",
+        "description": "The BIRKENSTOCK Boston is a veritable classic that can easily be worn all year round.",
+        "price": 140,
+        "currency": "GBP",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "parent"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "BSTN-SANDL_EN",
+        "title": "Boston Suede Leather",
+        "link": "https://www.birkenstock.com/gb/boston-suede-leather/boston-summer-suedeleather-0-eva-u_1702.html",
+        "description": "The BIRKENSTOCK Boston is a veritable classic that can easily be worn all year round.",
+        "price": 140,
+        "currency": "GBP",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "parent"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "BSTN-SANDL_FR",
+        "title": "Boston Cuir Velours",
+        "link": "https://www.birkenstock.com/gb/boston-suede-leather/boston-summer-suedeleather-0-eva-u_1702.html",
+        "description": "La BIRKENSTOCK Boston est un grand classique qui peut être porté toute l'année.",
+        "price": 165,
+        "currency": "EUR",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "sandales",
+            "homme",
+            "été"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "BSTN-SANDL_DE",
+        "title": "Boston Veloursleder",
+        "link": "https://www.birkenstock.com/gb/boston-suede-leather/boston-summer-suedeleather-0-eva-u_1702.html",
+        "description": "Der BIRKENSTOCK Boston ist ein echter Klassiker, der das ganze Jahr über getragen werden kann.",
+        "price": 165,
+        "currency": "EUR",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "sandals",
+            "mens",
+            "summer"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "MILNO-SNDL",
+        "title": "Milano Oiled Leather",
+        "link": "https://www.birkenstock.com/gb/milano-natural-leather-oiled/milano-core-oiledleather-0-eva-u_5326.html",
+        "description": "The BIRKENSTOCK Milano now comes in an elegant leather version.",
+        "price": 115,
+        "currency": "GBP",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "parent"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "MILNO-SNDL_EN",
+        "title": "Milano Oiled Leather",
+        "link": "https://www.birkenstock.com/gb/milano-natural-leather-oiled/milano-core-oiledleather-0-eva-u_5326.html",
+        "description": "The BIRKENSTOCK Milano now comes in an elegant leather version.",
+        "price": 115,
+        "currency": "GBP",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "parent"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "MILNO-SNDL_FR",
+        "title": "Milano Cuir Huilé",
+        "link": "https://www.birkenstock.com/gb/milano-natural-leather-oiled/milano-core-oiledleather-0-eva-u_5326.html",
+        "description": "La BIRKENSTOCK Milano est maintenant disponible dans une version élégante en cuir.",
+        "price": 136,
+        "currency": "EUR",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "sandales",
+            "homme",
+            "été"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "MILNO-SNDL_DE",
+        "title": "Milano Leder geölt",
+        "link": "https://www.birkenstock.com/gb/milano-natural-leather-oiled/milano-core-oiledleather-0-eva-u_5326.html",
+        "description": "Der BIRKENSTOCK Milano ist jetzt auch in einer eleganten Lederversion erhältlich.",
+        "price": 136,
+        "currency": "EUR",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "sandals",
+            "mens",
+            "summer"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "3STP-FUTCARE",
+        "title": "3-Step Foot Care Kit",
+        "link": "https://www.birkenstock.com/gb/3-step-foot-care-kit-/3stepfoot-careessentials-footcarekit-0-0-u.html?dwvar_3stepfoot-careessentials-footcarekit-0-0-u_color=11838",
+        "description": "The complete care essentials routine for your feet.",
+        "price": 28,
+        "currency": "GBP",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "parent"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "3STP-FUTCARE_EN",
+        "title": "3-Step Foot Care Kit",
+        "link": "https://www.birkenstock.com/gb/3-step-foot-care-kit-/3stepfoot-careessentials-footcarekit-0-0-u.html?dwvar_3stepfoot-careessentials-footcarekit-0-0-u_color=11838",
+        "description": "The complete care essentials routine for your feet.",
+        "price": 28,
+        "currency": "GBP",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "parent"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "3STP-FUTCARE_FR",
+        "title": "Kit de Soin des Pieds 3 Étapes",
+        "link": "https://www.birkenstock.com/gb/3-step-foot-care-kit-/3stepfoot-careessentials-footcarekit-0-0-u.html?dwvar_3stepfoot-careessentials-footcarekit-0-0-u_color=11838",
+        "description": "La routine complète de soins essentiels pour vos pieds.",
+        "price": 33,
+        "currency": "EUR",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "unisex",
+            "soin des pieds",
+            "beauté"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    },
+    {
+        "id": "3STP-FUTCARE_DE",
+        "title": "3-Schritte-Fußpflege-Set",
+        "link": "https://www.birkenstock.com/gb/3-step-foot-care-kit-/3stepfoot-careessentials-footcarekit-0-0-u.html?dwvar_3stepfoot-careessentials-footcarekit-0-0-u_color=11838",
+        "description": "Die komplette Pflegeroutine für deine Füße.",
+        "price": 33,
+        "currency": "EUR",
+        "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
+        "categories": [
+            "unisex",
+            "footcare",
+            "beauty"
+        ],
+        "inventory_quantity": 40,
+        "inventory_policy": 1
+    }
 ]
