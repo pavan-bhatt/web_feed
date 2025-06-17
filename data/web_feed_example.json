@@ -22,7 +22,7 @@
         "currency": "GBP",
         "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb91210fd/1029895/1029895.jpg?sw=848&sh=848&strip=false",
         "categories": [
-            "parent"
+            "sandals"
         ],
         "inventory_quantity": 40,
         "inventory_policy": 1
@@ -82,7 +82,7 @@
         "currency": "GBP",
         "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11a06cca/34871/34871.jpg?sw=848&sh=848&strip=false",
         "categories": [
-            "parent"
+            "sandals"
         ],
         "inventory_quantity": 40,
         "inventory_policy": 1
@@ -142,7 +142,7 @@
         "currency": "GBP",
         "image_link": "https://www.birkenstock.com/dw/image/v2/BBBF_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe12b076b/1030399/1030399.jpg?sw=848&sh=848&strip=false",
         "categories": [
-            "parent"
+            "beauty"
         ],
         "inventory_quantity": 40,
         "inventory_policy": 1
